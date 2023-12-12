@@ -1,6 +1,6 @@
 mod ex01;
-use ex01::tip_calculator;
+use ex01::calculate_tip_and_total;
 
 fn main() {
-    tip_calculator();
+    calculate_tip_and_total();
 }
